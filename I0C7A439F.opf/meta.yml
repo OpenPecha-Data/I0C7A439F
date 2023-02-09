@@ -1,0 +1,16 @@
+id: I0C7A439F
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:22:18.432441
+last_modified: 2023-02-10 00:22:18.432547
+source_metadata:
+  title: 'Asaṅga/Maitreya: Mahāyānasūtrālaṃkāra'
+  language: bo
+bases:
+  939D:
+    base_file: 939D.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
